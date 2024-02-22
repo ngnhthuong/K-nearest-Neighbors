@@ -4,11 +4,9 @@
 ## K-NEAREST NEIGHBORS 
 <p align="middle">
 
-## TECHNOLOGY STACKS ✨
-
-### PROGRAMMING LANGUAGE ✨
+## PROGRAMMING LANGUAGE ✨
 ![Python](https://img.shields.io/badge/Language-Python-red) 
-### MODEL ✨
+## MODEL ✨
   - KNN
 ## IMAGES ✨
 
